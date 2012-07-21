@@ -2,7 +2,7 @@ package com.thiha;
 
 public class Child extends Parent{
 	public void test(){
-		System.out.println("child");
+		System.out.println("child   parz");
 	}
 	
 	public static void main(String[] args) {
